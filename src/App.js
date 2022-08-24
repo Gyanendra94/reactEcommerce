@@ -1,5 +1,4 @@
 import React from "react";
-import CategoryItem from "./components/category-item/category-item.component";
 import CategoryMenu from "./components/category-menu/category-menu.component";
 
 const App = () => {
